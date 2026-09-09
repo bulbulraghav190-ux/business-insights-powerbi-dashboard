@@ -65,7 +65,7 @@ A fully slicer-driven control panel enabling dynamic filtering across all report
 ---
 
 ## 👤 Author
-Designed and developed by **Bulbul Raghav** as a self-driven data analytics/Power BI project.
+Designed and developed by **me** as a self-driven data analytics/Power BI project.
 
 ---
 
